@@ -40,7 +40,7 @@ This project includes **three interactive math games** built with Python and Jup
 
 ## 🧪 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1ImqBb3K-9e91e4vIwSzp6KE3EAsePFqs?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ImqBb3K-9e91e4vIwSzp6KE3EAsePFqs?usp=sharing)
 
 ---
 
